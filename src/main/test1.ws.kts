@@ -10,3 +10,9 @@ fun returnReturnInc(value: Int): Int {
 inc(1)
 returnInc(1)
 returnReturnInc(1)
+
+fun rTRTRTTRTRTRRRTTTTRTRTRTRTRTRRRRInc(value: Int): Int {
+    return throw return throw throw throw return throw return return return inc(value)
+}
+
+rTRTRTTRTRTRRRTTTTRTRTRTRTRTRRTRInc(9)
